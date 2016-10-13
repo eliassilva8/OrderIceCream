@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_chocolate">Com chocolate?</string>
+    <string name="add_whipped_cream">Com natas?</string>
+    <string name="name">Nome:</string>
+    <string name="order">Pedir</string>
+    <string name="order_coffee">Pedir café</string>
+    <string name="quantity">Quantidade: </string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="toast_less_than">Não pode pedir menos de 1 café.</string>
+    <string name="toast_more_than">Não pode pedir mais de 10 cafés.</string>
+    <string name="whipped_cream">Natas</string>
+    <string name="caramel">Caramelo</string>
+    <string name="toppings">Cobertura</string>
+    <string name="add_caramel">Com caramelo?</string>
+    <string name="flavour">Sabor</string>
+    <string name="caramel_flavour">Caramelo</string>
+    <string name="strawberry">Morango</string>
+    <string name="vanilla">Baunilha</string>
+    <string name="icecream_flavour">Sabor do gelado: </string>
+</resources>
+
